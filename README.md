@@ -1,4 +1,4 @@
-beecrowd-solutions
+# beecrowd-solutions
 
 Minhas soluções em Python para os exercícios do Beecrowd (antigo URI Online Judge), focando na categoria Iniciante.
 
@@ -20,3 +20,15 @@ Minhas soluções em Python para os exercícios do Beecrowd (antigo URI Online J
 - Problema 1013 - O Maior
 - Problema 1014 - Consumo
 - Problema 1015 - Distância entre Dois Pontos
+
+## Como usar
+
+1. Clone este repositório:
+```
+git clone https://github.com/veronicasfx/beecrowd-solutions.git
+```
+2. Navegue até a pasta do exercício desejado.
+3. Execute o arquivo Python correspondente:
+```
+python nome_do_arquivo.py
+```
