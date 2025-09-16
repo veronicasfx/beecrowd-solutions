@@ -96,14 +96,20 @@ Minhas soluções em Python para os exercícios do Beecrowd (antigo URI Online J
 
 ## Como usar
 
-1. Clone este repositório:
+Clone este repositório:
+```
 git clone https://github.com/veronicasfx/beecrowd-solutions.git
+```
 
-2. Navegue até a pasta do exercício desejado:
+Navegue até a pasta do exercício desejado:
+```
 cd nome_da_pasta
+```
 
-3. Execute o arquivo Python correspondente:
+Execute o arquivo Python correspondente:
+```
 python nome_do_arquivo.py
+```
 
 
 
